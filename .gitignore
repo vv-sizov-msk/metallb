@@ -1,0 +1,4 @@
+.git/
+secret.*
+role_name/
+.vscode/
